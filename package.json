@@ -1,0 +1,16 @@
+{
+  "name": "test-mobile",
+  "version": "1.0.0",
+  "description": "An example of general setup for mobile automation",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Ryan Silvera rygsilvera@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "*",
+    "chai": "*"
+  }
+}
